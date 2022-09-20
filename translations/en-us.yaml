@@ -3551,7 +3551,7 @@ clusterNew:
         serviceCidr: Kubernetes service address range must be valid CIDR format.
     image:
       label: Image
-      placeholder: canonical:UbuntuServer:18.04-LTS:latest
+      placeholder: canonical:UbuntuServer:22.04-LTS:latest
     import:
       clusterOptions:
         detail: Configure additional cluster options
@@ -9503,7 +9503,7 @@ nodeDriver:
       placeholder: Your Azure subscription certificate
     image:
       label: Image
-      placeholder: 'canonical:UbuntuServer:18.04-LTS:latest'
+      placeholder: 'canonical:UbuntuServer:22.04-LTS:latest'
       helpText: Providing an ARM resource identifier requires using managed disk
     diskSize:
       label: Disk Size

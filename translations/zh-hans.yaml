@@ -3595,7 +3595,7 @@ clusterNew:
       placeholder: Azure 租户 ID
     image:
       label: 镜像
-      placeholder: '推荐: Ubuntu Server:18.04-LTS:latest'
+      placeholder: '推荐: Ubuntu Server:22.04-LTS:latest'
     size:
       label: 规格
     dockerPort:
